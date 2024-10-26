@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999195876722",
+    "project_id": "medicament-d8e43",
+    "storage_bucket": "medicament-d8e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999195876722:android:161c38c900149f9ea0d1eb",
+        "android_client_info": {
+          "package_name": "com.example.medicinecabinet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQKxCSaNpAiLdvMBBxvyRn2psX8iIDD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999195876722:android:9f1e961c3b53c3b9a0d1eb",
+        "android_client_info": {
+          "package_name": "com.example.minerestoran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQKxCSaNpAiLdvMBBxvyRn2psX8iIDD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
